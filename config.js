@@ -13,7 +13,7 @@ Anh là nồi úp mình chung một lò.`,
     btnReply: 'send ',
     reply: 'Mãi bên nhau bạn nhó <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Ib yêumình luôn đi chứ còn gì nữa Pinky <3  ',
+    messDesc: 'Ib mình luôn đi chứ còn gì nữa Pinky <3  ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/100055690565080' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
